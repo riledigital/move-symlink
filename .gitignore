@@ -1,0 +1,7 @@
+.vscode/settings.json
+test.py
+__pycache__
+.env
+.venv
+.vscode
+*.egg-info

@@ -1,0 +1,11 @@
+src:
+  - "/Users/riledigital/Library/Unity"
+
+dest: "/Volumes/SanDisk_APFS_EXT/Library/"
+# src:
+#   - "/Library/Application Support/Logic"
+#   - "/Library/Application Support/GarageBand"
+#   - "/Users/riledigital/Library/Audio/Apple Loops"
+#   - "/Users/riledigital/Library/Audio/Impulse Responses"
+
+# dest: "/Volumes/EXT-Media/_MusicProduction/Library"
